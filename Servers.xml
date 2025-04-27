@@ -444,4 +444,17 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/d3ZPpQsHCd</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>186eb63c-cc71-4067-b3fa-5cd471f93b67</id>
+    <name>Asherons Recall</name>
+    <description>Evolving EOR server with many additions. Single starter town, New Roulea and more. </description>
+    <emu>ACE</emu>
+    <server_host>71.76.115.179</server_host>
+    <server_port>9000</server_port>
+    <type>PvE/PK</type>
+    <status>Development</status>
+    <website_url></website_url>
+    <discord_url></discord_url>
+  </ServerItem>
+  <ServerItem>
 </ArrayOfServerItem>
