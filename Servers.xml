@@ -445,10 +445,10 @@
     <discord_url>https://discord.gg/d3ZPpQsHCd</discord_url>
   </ServerItem>
   <ServerItem>
-	  <id>19f19492-953a-47a4-bb4e-05f78ba46cc1</id>
+    <id>19f19492-953a-47a4-bb4e-05f78ba46cc1</id>
     <name>WuckFB</name>
-  	<description>ACE PvE</description>
-  	<emu>ACE</emu>
+    <description>ACE PvE</description>
+    <emu>ACE</emu>
     <server_host>Wuck.ddns.net</server_host>
     <server_port>9080</server_port>
     <type>PvE</type>
