@@ -444,4 +444,15 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/d3ZPpQsHCd</discord_url>
   </ServerItem>
+  <id>3f1f41ec-c7fd-4ed9-b47d-25b0d94219c1</id>
+    <name>Asherons Recall</name>
+    <description>Evolving EOR server with several additions</description>
+    <emu>ACE</emu>
+    <server_host>71.76.115.170</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url></discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
