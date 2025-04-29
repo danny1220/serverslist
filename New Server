@@ -1,0 +1,12 @@
+ <ServerItem>
+    <id>ff41be2d-070e-478d-9a0d-0fdf30c435c7</id>
+    <name>Asherons Recall</name>
+    <description>EOR Server with some additions</description>
+    <emu>ACE</emu>
+    <server_host>71.76.115.179</server_host>
+    <server_port>9000</server_port>
+    <type>PvE/PK</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url></discord_url>
+  </ServerItem>
