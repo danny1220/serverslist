@@ -444,4 +444,16 @@
     <website_url></website_url>
     <discord_url>https://discord.gg/d3ZPpQsHCd</discord_url>
   </ServerItem>
+  <ServerItem>
+    <id>6bc70389-5da8-4a47-ad3c-0cb46a75afb0</id>
+    <name>Asherons ReCall</name>
+    <description>EOR+ Server **Lvl Cap 99,999/QoL Mods/New Roulea & Peddlers Outpost/Lots of custom content/Drop Rates, XP and Lum rates slightly boosted**</description>
+    <emu>ACE</emu>
+    <server_host>71.76.115.179</server_host>
+    <server_port>9000</server_port>
+    <type>PvE</type>
+    <status>Stable</status>
+    <website_url></website_url>
+    <discord_url></discord_url>
+  </ServerItem>
 </ArrayOfServerItem>
